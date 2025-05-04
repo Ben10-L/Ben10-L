@@ -2,7 +2,7 @@
 
 🎓 Informatics student | 🤖 Embedded Systems Explorer | 🧠 AI Curious | 🎨 Creative Storyteller
 
----
+
 
 ## 🚀 About Me
 
@@ -13,7 +13,7 @@ I'm a informatics student currently diving into the world of **technology, desig
 - Full-Stack Development 💻 (Python, JavaScript)
 - Creative storytelling & visual design 🎨
 
----
+
 
 
 ## 🧠 Skills & Tools
@@ -22,15 +22,11 @@ I'm a informatics student currently diving into the world of **technology, desig
 - **Frameworks**: React, Node.js
 - **Other**: Adobe Photoshop 
 
----
+
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/oussama-beniaich-58aa0b222/)) 
 
----
-
 
 Thanks for visiting my profile! 🙌
-
-Add nice desgne
