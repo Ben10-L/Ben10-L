@@ -53,7 +53,7 @@ I'm an informatics student passionate about exploring the intersection of techno
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/Ben10-L" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ben10-L&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <br>
@@ -73,6 +73,7 @@ I'm an informatics student passionate about exploring the intersection of techno
   <a href="https://www.linkedin.com/in/oussama-beniaich-58aa0b222/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <!-- Add more social links as needed -->
 </div>
 
 <br>
