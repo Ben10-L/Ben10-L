@@ -26,7 +26,7 @@ I'm a informatics student currently diving into the world of **technology**, **d
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/oussama-beniaich-58aa0b222/)) 
+- 💼 [LinkedIn]((https://www.linkedin.com/in/oussama-beniaich-58aa0b222/)) 
 
 
 Thanks for visiting my profile! 🙌
