@@ -53,7 +53,7 @@ I'm an informatics student passionate about exploring the intersection of techno
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github.com/Ben10-L" alt="GitHub Stats" />
 </div>
 
 <br>
