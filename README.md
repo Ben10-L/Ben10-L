@@ -73,7 +73,6 @@ I'm an informatics student passionate about exploring the intersection of techno
   <a href="https://www.linkedin.com/in/oussama-beniaich-58aa0b222/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Add more social links as needed -->
 </div>
 
 <br>
@@ -82,6 +81,4 @@ I'm an informatics student passionate about exploring the intersection of techno
 
 <div align="center">
   <i>Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations.</i>
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
-</div>
+  </div>
