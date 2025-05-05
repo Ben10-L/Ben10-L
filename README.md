@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a informatics student currently diving into the world of **technology, design.
+I'm a informatics student currently diving into the world of **technology**, **design**.
 
 🔐 I’m interested in:
 - Artificial Intelligence 🤖 (NLP, ML models)
